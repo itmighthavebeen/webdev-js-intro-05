@@ -30,19 +30,18 @@ To view the project locally, you can either open the project files in your code 
 
 #### Part 1.
 
-- [ ] View the site with Live Preview.
-- [ ] Read the concept content served from `index.html`.
-- [ ] Do the experiment section inside `index.js`.
-- [ ] When finished with experimenting, comment out everything in `index.js`. You can use these as references for future project/assignments.
+- [X ] Read the concept content served from `index.html`.
+- [ X] Do the experiment section inside `index.js`.
+- [X ] When finished with experimenting, comment out everything in `index.js`. You can use these as references for future project/assignments.
 
 #### Part 2
 
-- [ ] Navigate to the Assignment Page
-- [ ] Read the assignment overview and output section.
-- [ ] In `assignment.js`:
-    - [ ] Create a mutable variable named `shiftValue` and do not assign it a value
-    - [ ] Create a mutable variable named `popValue` and do not assign it a value.
-    - [ ] Write the code for each step.
+- [ X] Navigate to the Assignment Page
+- [X ] Read the assignment overview and output section.
+- [X ] In `assignment.js`:
+    - [X ] Create a mutable variable named `shiftValue` and do not assign it a value
+    - [X ] Create a mutable variable named `popValue` and do not assign it a value.
+    - [X ] Write the code for each step.
 
 
 ### Tips
